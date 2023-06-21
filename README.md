@@ -2,12 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ### Additional Installations
 For the modifications made to the frontend of the "Students Projects" project, the following libraries need to be installed:
 
